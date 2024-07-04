@@ -11,6 +11,10 @@ body {
   padding: 0;
 }
 
+h1 {
+  text-align: center;
+}
+
 section {
   display: grid;
   grid-template-columns: 1fr 1fr;
